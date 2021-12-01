@@ -1,5 +1,5 @@
 # Computer Security EXP04 - Network analysis
-The analysis of network traffic is critical in intrusion detection. Here is a file of network traffic in pcap format that corresponds to a real attack to a computer system, from beginning to end. Analyze the traffic file and answer the following questions:
+The analysis of network traffic is critical in intrusion detection. [Here is a file](https://github.com/Frequel/Cyber-Security-Unicamp-SEGC2020s2/blob/main/PracticalExperiment/Experiment_04/Material/traffic1.pcap) of network traffic in pcap format that corresponds to a real attack to a computer system, from beginning to end. Analyze the traffic file and answer the following questions:
 1. Which are the involved systems (IP addresses)?
 2. Where are geographically located the attacking hosts?
 3. How many TCP sessions the traffic file contains?
