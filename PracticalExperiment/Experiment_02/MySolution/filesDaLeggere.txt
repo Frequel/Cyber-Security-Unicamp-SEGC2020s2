@@ -1,0 +1,10 @@
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/fileProva.text
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/try.txt
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/d2/fileProva.text
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/fileProva.txt
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/d3/fileProva.text
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/d3/fileProva.txt
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/a1.txt
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/d1/fileProva.text
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/d1/d12/d123/fileProva.text
+/home/matteo/Desktop/Campinas/seguranza/SEGC_expirements/exp02/prova/d1/d12/d123/fileProva.txt

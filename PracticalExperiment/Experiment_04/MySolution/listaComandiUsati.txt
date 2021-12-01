@@ -1,0 +1,12 @@
+-estrapola tutti gli indirizzi ip all'interno del pcap fornito
+tshark -r traffic1.pcap -T fields -e ip.dst ip.src | sort | uniq
+ho poi scoperto con il link del punto seguente che posso trovarli in statistics-> endpoint
+-estrapolare la geolocalizzazione
+link nel bookmark di exp04 su chrome -> la cattura non ha questa informazione
+usiamo https://whatismyipaddress.com/ip/
+-estrapolare le sessioni tcp
+statistic-> conversation (da bookmark)
+ci dà 9 sessioni e 1754 pacchetti scambiati in totale
+-estrapolare durata attacco
+come punto precendente, da vedere TCPconversation
+

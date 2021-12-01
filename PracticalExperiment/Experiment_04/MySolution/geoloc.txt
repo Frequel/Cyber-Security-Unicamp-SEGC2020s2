@@ -1,0 +1,73 @@
+Details for 66.7.200.69
+IP:	66.7.200.69
+Decimal:	1107806277
+Hostname:	66-7-200-69.static.hostdime.com
+ASN:	33182
+ISP:	HostDime.com
+Organization:	HostDime.com
+Services:	None detected
+Type:	Corporate
+Assignment:	Likely Static IP
+Blacklist:	
+Continent:	North America
+Country:	United States us flag
+Latitude:	37.751  (37° 45′ 3.60″ N)
+Longitude:	-97.822  (97° 49′ 19.20″ W)
+
+##################################################################################################
+
+Details for 66.7.200.72
+IP:	66.7.200.72
+Decimal:	1107806280
+Hostname:	66-7-200-72.static.hostdime.com
+ASN:	33182
+ISP:	HostDime.com
+Organization:	HostDime.com
+Services:	None detected
+Type:	Corporate
+Assignment:	Likely Static IP
+Blacklist:	
+Continent:	North America
+Country:	United States us flag
+Latitude:	37.751  (37° 45′ 3.60″ N)
+Longitude:	-97.822  (97° 49′ 19.20″ W)
+
+##################################################################################################
+
+Details for 189.126.11.82
+IP:	189.126.11.82
+Decimal:	3179154258
+Hostname:	189.126.11.82
+ASN:	270398
+ISP:	Calcontec Tel.ecomunicacoes E Informatica Ltda
+Organization:	Calcontec Tel.ecomunicacoes E Informatica Ltda
+Services:	None detected
+Assignment:	Likely Static IP
+Blacklist:	
+Continent:	South America
+Country:	Brazil br flag
+Latitude:	-22.8305  (22° 49′ 49.80″ S)
+Longitude:	-43.2192  (43° 13′ 9.12″ W)
+
+##################################################################################################
+
+Details for 200.149.77.224
+IP:	200.149.77.224
+Decimal:	3365228000
+Hostname:	200.149.77.224
+ASN:	7738
+ISP:	Oi Internet
+Organization:	Oi Internet
+Services:	None detected
+Type:	Broadband
+Assignment:	Likely Static IP
+Blacklist:	
+Continent:	South America
+Country:	Brazil br flag
+State/Region:	Rio de Janeiro
+City:	Niterói
+Latitude:	-22.922  (22° 55′ 19.20″ S)
+Longitude:	-43.1025  (43° 6′ 9.00″ W)
+Postal Code:	24000
+
+##################################################################################################
