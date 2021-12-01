@@ -1,4 +1,4 @@
-#Computer Security - Worm simulation
+# Computer Security - Worm simulation
 The goal of this task is to simulate the behavior of a worm in a simple way.
 
 Set up a virtual machine and use netcat to simulate a backdoor inside the VM. It must be able to write and execute files.
