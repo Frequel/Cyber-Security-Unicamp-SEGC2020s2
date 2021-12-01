@@ -1,0 +1,49 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-04-26 14:31 EDT
+NSE: Loaded 45 scripts for scanning.
+Initiating Parallel DNS resolution of 1 host. at 14:31
+Completed Parallel DNS resolution of 1 host. at 14:31, 0.01s elapsed
+Initiating SYN Stealth Scan at 14:31
+Scanning 192.168.56.106 [1024 ports]
+Discovered open port 587/tcp on 192.168.56.106
+Discovered open port 25/tcp on 192.168.56.106
+Discovered open port 143/tcp on 192.168.56.106
+Discovered open port 993/tcp on 192.168.56.106
+Discovered open port 995/tcp on 192.168.56.106
+Discovered open port 110/tcp on 192.168.56.106
+Discovered open port 119/tcp on 192.168.56.106
+Discovered open port 563/tcp on 192.168.56.106
+Discovered open port 948/tcp on 192.168.56.106
+Discovered open port 869/tcp on 192.168.56.106
+Discovered open port 600/tcp on 192.168.56.106
+Discovered open port 465/tcp on 192.168.56.106
+Completed SYN Stealth Scan at 14:31, 4.56s elapsed (1024 total ports)
+Initiating Service scan at 14:31
+Scanning 12 services on 192.168.56.106
+Completed Service scan at 14:32, 87.64s elapsed (12 services on 1 host)
+NSE: Script scanning 192.168.56.106.
+Initiating NSE at 14:32
+Completed NSE at 14:32, 2.03s elapsed
+Initiating NSE at 14:32
+Completed NSE at 14:32, 1.01s elapsed
+Nmap scan report for 192.168.56.106
+Host is up (0.0070s latency).
+Not shown: 1012 filtered ports
+PORT    STATE SERVICE    VERSION
+25/tcp  open  smtp-proxy Avast! anti-virus smtp proxy (cannot connect to 192.168.56.106)
+110/tcp open  pop3-proxy Avast! anti-virus pop3 proxy (cannot connect to 192.168.56.106)
+119/tcp open  nntp-proxy Avast! anti-virus NNTP proxy (cannot connect to 192.168.56.106)
+143/tcp open  imap-proxy Avast! anti-virus IMAP proxy (cannot connect to 192.168.56.106)
+465/tcp open  tcpwrapped
+563/tcp open  tcpwrapped
+587/tcp open  smtp-proxy Avast! anti-virus smtp proxy (cannot connect to 192.168.56.106)
+600/tcp open  tcpwrapped
+869/tcp open  unknown
+948/tcp open  tcpwrapped
+993/tcp open  tcpwrapped
+995/tcp open  tcpwrapped
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 95.98 seconds
+           Raw packets sent: 2037 (89.628KB) | Rcvd: 655 (26.252KB)

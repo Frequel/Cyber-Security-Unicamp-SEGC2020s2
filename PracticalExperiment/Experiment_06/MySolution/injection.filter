@@ -1,0 +1,6 @@
+if(ip.proto==TCP ){
+	if (search(DATA.data, " ")) {
+		replace(" ", "☺");
+		msg("File Corrupted");
+	}
+}

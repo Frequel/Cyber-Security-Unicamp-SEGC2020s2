@@ -1,0 +1,42 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-04-26 14:32 EDT
+Initiating Parallel DNS resolution of 1 host. at 14:32
+Completed Parallel DNS resolution of 1 host. at 14:32, 0.01s elapsed
+Initiating UDP Scan at 14:32
+Scanning 192.168.56.106 [1024 ports]
+Increasing send delay for 192.168.56.106 from 0 to 50 due to max_successful_tryno increase to 4
+Increasing send delay for 192.168.56.106 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.56.106 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.56.106 from 200 to 400 due to max_successful_tryno increase to 7
+Increasing send delay for 192.168.56.106 from 400 to 800 due to 11 out of 12 dropped probes since last increase.
+UDP Scan Timing: About 3.55% done; ETC: 14:47 (0:14:03 remaining)
+UDP Scan Timing: About 6.26% done; ETC: 14:48 (0:15:13 remaining)
+UDP Scan Timing: About 17.33% done; ETC: 14:50 (0:14:24 remaining)
+UDP Scan Timing: About 23.36% done; ETC: 14:50 (0:13:30 remaining)
+UDP Scan Timing: About 28.90% done; ETC: 14:50 (0:12:35 remaining)
+UDP Scan Timing: About 34.74% done; ETC: 14:50 (0:11:41 remaining)
+UDP Scan Timing: About 39.78% done; ETC: 14:50 (0:10:46 remaining)
+UDP Scan Timing: About 45.00% done; ETC: 14:50 (0:09:52 remaining)
+UDP Scan Timing: About 50.15% done; ETC: 14:50 (0:08:58 remaining)
+UDP Scan Timing: About 55.18% done; ETC: 14:50 (0:08:03 remaining)
+UDP Scan Timing: About 60.45% done; ETC: 14:50 (0:07:09 remaining)
+UDP Scan Timing: About 65.68% done; ETC: 14:50 (0:06:12 remaining)
+UDP Scan Timing: About 70.69% done; ETC: 14:50 (0:05:18 remaining)
+UDP Scan Timing: About 75.92% done; ETC: 14:50 (0:04:21 remaining)
+UDP Scan Timing: About 81.03% done; ETC: 14:50 (0:03:26 remaining)
+UDP Scan Timing: About 86.23% done; ETC: 14:50 (0:02:30 remaining)
+UDP Scan Timing: About 91.35% done; ETC: 14:50 (0:01:34 remaining)
+UDP Scan Timing: About 96.64% done; ETC: 14:50 (0:00:37 remaining)
+Completed UDP Scan at 14:51, 1126.02s elapsed (1024 total ports)
+Nmap scan report for 192.168.56.106
+Host is up (0.00097s latency).
+Not shown: 1019 filtered ports
+PORT    STATE         SERVICE
+67/udp  open|filtered dhcps
+68/udp  open|filtered dhcpc
+137/udp open|filtered netbios-ns
+138/udp open|filtered netbios-dgm
+631/udp open|filtered ipp
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 1126.10 seconds
+           Raw packets sent: 1437 (41.721KB) | Rcvd: 1112 (62.256KB)

