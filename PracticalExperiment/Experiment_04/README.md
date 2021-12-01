@@ -7,8 +7,7 @@ The analysis of network traffic is critical in intrusion detection. Here is a fi
 5. What were the actions taken during the attack (general outline of the steps)?
 6. Was there any malicious code (malware) involved and, if so, what was the name of the malware, if identifyable by anti-malware mechanisms (like VirusTotal, for instance)?
 
-Report writing and delivery of results
-
+# Report writing and delivery of results
 The team must submit a pdf report describing:
 - The process of network traffic analysis for intrusion detection.
 - Answers to the above questions.
